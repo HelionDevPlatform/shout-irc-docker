@@ -3,7 +3,7 @@ Docker contents via https://github.com/sparklyballs/docker-containers/tree/maste
 
 Shout IRC https://github.com/erming/shout
 
-## Running on Stackato
+## Running on HPE Helion Stackato
 
 ```
 stackato push -n
