@@ -1,4 +1,4 @@
 applications:
 - name: shout-irc-docker
   docker_image: sparklyballs/shout-irc:latest
-  mem: 256M
+  memory: 256M
